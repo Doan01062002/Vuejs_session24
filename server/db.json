@@ -1,0 +1,46 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "NextJs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUBj38GZzKOVIW1v9REUyjUnB-vT98GPQAw&s",
+      "date": "2024-10-12",
+      "status": true
+    },
+    {
+      "id": 2,
+      "title": "VueJs",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkybjMfT7-El0T-dUSl8sXYz-o4h3fxhrLQ&s",
+      "date": "2024-10-12",
+      "status": true
+    },
+    {
+      "id": 3,
+      "title": "ReactJs",
+      "image": "https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25085005/reactjs-inner.svg",
+      "date": "2024-10-12",
+      "status": true
+    },
+    {
+      "id": 4,
+      "title": "ReactJs",
+      "image": "https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25085005/reactjs-inner.svg",
+      "date": "2024-10-12",
+      "status": true
+    },
+    {
+      "id": 5,
+      "title": "ReactJs",
+      "image": "https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25085005/reactjs-inner.svg",
+      "date": "2024-10-12",
+      "status": true
+    },
+    {
+      "id": 6,
+      "title": "ReactJs",
+      "image": "https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25085005/reactjs-inner.svg",
+      "date": "2024-10-12",
+      "status": true
+    }
+  ]
+}
